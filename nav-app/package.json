@@ -41,7 +41,7 @@
     "rxjs": "^6.6.3",
     "rxjs-compat": "^6.6.3",
     "tinygradient": "^0.4.3",
-    "tslib": "^2.0.0",
+    "tslib": "^2.3.1",
     "zone.js": "~0.10.2"
   },
   "devDependencies": {
